@@ -80,9 +80,41 @@ GET       /api/Asignado/{id}
 PUT       /api/Asignado/{id}
 DELETE    /api/Asignado/{id}
 ```
+EX3
+```
+Cajeros
+GET       /api/Cajeros
+POST      /api/Cajeros
+GET       /api/Cajeros/{id}
+PUT       /api/Cajeros/{id}
+DELETE    /api/Cajeros/{id}
+
+Maquinas
+GET       /api/Maquinas
+POST      /api/Maquinas
+GET       /api/Maquinas/{id}
+PUT       /api/Maquinas/{id}
+DELETE    /api/Maquinas/{id}
+
+Productos
+GET       /api/Productos
+POST      /api/Productos
+GET       /api/Productos/{id}
+PUT       /api/Productos/{id}
+DELETE    /api/Productos/{id}
+
+Ventas
+GET       /api/Ventas
+POST      /api/Ventas
+GET       /api/Ventas/{id}
+PUT       /api/Ventas/{id}
+DELETE    /api/Ventas/{id}
+```
 
 #### 5. Screenshot imagen que indique cómo debe verse el proyecto.
 ##### EX1
 ![image](https://i.imgur.com/ldKpJAs.png)
 ##### EX2
 ![image](https://i.imgur.com/YpiRAAE.png)
+##### EX2
+![image](https://i.imgur.com/3TjfnWO.png)
