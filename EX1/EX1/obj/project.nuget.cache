@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "TzvxuLbeiLzOEYswOSYyTgxPXL2xcFpxlHs9dwmxNGaA1j8z8mOg2t1AERshQ54z2V4i8oQjl+8lIhwpWuagFg==",
+  "dgSpecHash": "4hjl58VosxOCLy6BKnfrJ1CBXdvbPpFTMfaT4q6lsxhjg5GAltJk6XGRd2RiVao0MvKp2HBsMN8a7UOwGbza2A==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Joan\\source\\repos\\JoanJuan10\\.NET_UD27\\API_C06_ER_SQL\\API_C06_ER_SQL\\EX1.csproj",
+  "projectFilePath": "C:\\Users\\Joan\\source\\repos\\JoanJuan10\\.NET_UD27\\EX1\\EX1\\EX1.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Joan\\.nuget\\packages\\microsoft.aspnetcore.html.abstractions\\2.2.0\\microsoft.aspnetcore.html.abstractions.2.2.0.nupkg.sha512",
     "C:\\Users\\Joan\\.nuget\\packages\\microsoft.aspnetcore.razor\\2.2.0\\microsoft.aspnetcore.razor.2.2.0.nupkg.sha512",

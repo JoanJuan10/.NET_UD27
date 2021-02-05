@@ -9008,11 +9008,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Joan\\source\\repos\\JoanJuan10\\.NET_UD27\\API_C06_ER_SQL\\API_C06_ER_SQL\\EX1.csproj",
+      "projectUniqueName": "C:\\Users\\Joan\\source\\repos\\JoanJuan10\\.NET_UD27\\EX1\\EX1\\EX1.csproj",
       "projectName": "EX1",
-      "projectPath": "C:\\Users\\Joan\\source\\repos\\JoanJuan10\\.NET_UD27\\API_C06_ER_SQL\\API_C06_ER_SQL\\EX1.csproj",
+      "projectPath": "C:\\Users\\Joan\\source\\repos\\JoanJuan10\\.NET_UD27\\EX1\\EX1\\EX1.csproj",
       "packagesPath": "C:\\Users\\Joan\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Joan\\source\\repos\\JoanJuan10\\.NET_UD27\\API_C06_ER_SQL\\API_C06_ER_SQL\\obj\\",
+      "outputPath": "C:\\Users\\Joan\\source\\repos\\JoanJuan10\\.NET_UD27\\EX1\\EX1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Joan\\AppData\\Roaming\\NuGet\\NuGet.Config",
