@@ -3,7 +3,7 @@ Proyecto base usado: Netflix_API (ER + SQL) [https://github.com/JoseMarin/Netfli
 
 #### 1. Description
 ```
-Demo API REST creada con .NET COre 3.1 utilizando varias entidades ER y conectada con base de datos 
+API REST creada con .NET COre 3.1 utilizando varias entidades ER y conectada con base de datos 
 MS Sql Virtualizada sobre Fedora 32  y VMWare Workstation.
 ```
 
@@ -56,8 +56,33 @@ POST      /api/Suministras
 GET       /api/Suministras/{id}
 PUT       /api/Suministras/{id}
 DELETE    /api/Suministras/{id}
+```
+EX2
+```
+Cientificos
+GET       /api/Cientificos
+POST      /api/Cientificos
+GET       /api/Cientificos/{id}
+PUT       /api/Cientificos/{id}
+DELETE    /api/Cientificos/{id}
 
+Proyectos
+GET       /api/Proyectos
+POST      /api/Proyectos
+GET       /api/Proyectos/{id}
+PUT       /api/Proyectos/{id}
+DELETE    /api/Proyectos/{id}
+
+Asignado
+GET       /api/Asignado
+POST      /api/Asignado
+GET       /api/Asignado/{id}
+PUT       /api/Asignado/{id}
+DELETE    /api/Asignado/{id}
 ```
 
 #### 5. Screenshot imagen que indique cómo debe verse el proyecto.
+##### EX1
 ![image](https://i.imgur.com/ldKpJAs.png)
+##### EX2
+![image](https://i.imgur.com/YpiRAAE.png)
