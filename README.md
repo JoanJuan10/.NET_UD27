@@ -110,11 +110,44 @@ GET       /api/Ventas/{id}
 PUT       /api/Ventas/{id}
 DELETE    /api/Ventas/{id}
 ```
+EX4
+```
+Equipos
+GET       /api/Equipos
+POST      /api/Equipos
+GET       /api/Equipos/{id}
+PUT       /api/Equipos/{id}
+DELETE    /api/Equipos/{id}
+
+Facultades
+GET       /api/Facultades
+POST      /api/Facultades
+GET       /api/Facultades/{id}
+PUT       /api/Facultades/{id}
+DELETE    /api/Facultades/{id}
+
+Investigadores
+GET       /api/Investigadores
+POST      /api/Investigadores
+GET       /api/Investigadores/{id}
+PUT       /api/Investigadores/{id}
+DELETE    /api/Investigadores/{id}
+
+Reservas
+GET       /api/Reservas
+POST      /api/Reservas
+GET       /api/Reservas/{id}
+PUT       /api/Reservas/{id}
+DELETE    /api/Reservas/{id}
+```
 
 #### 5. Screenshot imagen que indique cómo debe verse el proyecto.
 ##### EX1
 ![image](https://i.imgur.com/ldKpJAs.png)
 ##### EX2
 ![image](https://i.imgur.com/YpiRAAE.png)
-##### EX2
+##### EX3
 ![image](https://i.imgur.com/3TjfnWO.png)
+##### EX4
+![image](https://i.imgur.com/gZWakRE.png)
+
